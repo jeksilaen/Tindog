@@ -1,1 +1,1 @@
-Link : https://jeksilaen.github.io/Tindog-Website/
+Link : https://jeksilaen.github.io/Tindog/
